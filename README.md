@@ -8,7 +8,7 @@
 #### Scope of the testing:
 - "Log In" form;
 - "Sign Up" form;
-- option "Forgot Password".
+- "Forgot Password" option.
 
 
 #### Items in the checklist are sorted by folowing check type: smoke, critical path, extended.
